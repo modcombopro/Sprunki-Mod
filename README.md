@@ -1,4 +1,4 @@
-# Epic Plane Evolution Mod APK: Everything You Need to Know! ✈️
+# The Ultimate Guide to Sprunki Mod: Everything You Need to Know 🚀
 If you're a fan of customizable gaming experiences, you've probably come across the term Sprunki Mod. Whether you're a beginner or an expert looking to refine your knowledge, this guide dives deep into what Sprunki Mod is, how it works, and why it’s a must-have for your gaming arsenal.
 
 🌟 What is Sprunki Mod?
@@ -6,7 +6,6 @@ If you're a fan of customizable gaming experiences, you've probably come across 
 Sprunki Mod is a game modification tool that enhances gameplay by introducing unique features, settings, and customizations. Originally designed for [specific game], it has expanded to cater to a wide variety of games, making it a favorite among gaming communities.
 
 Key Features:
-
 🎮 Customizable Gameplay: Adjust game mechanics to suit your preferences.
 🌐 Community-Driven Updates: Regular improvements based on user feedback.
 🛠️ User-Friendly Interface: Simple setup even for beginners.
