@@ -20,7 +20,7 @@ Feature	Sprunki Mod	Other Mods
 🌐 Compatibility	Multi-Game Support	Game-Specific
 With its versatility and ease of use, Sprunki Mod continues to gain traction among casual and hardcore gamers alike.
 
-🛠️ How to Install Sprunki Mod?
+## 🛠️ How to Install Sprunki Mod?
 Installing Sprunki Mod is straightforward! Follow these steps:
 
 Download the Mod:
@@ -41,7 +41,7 @@ Open the game launcher.
 Enable Sprunki Mod in the settings or mod manager.
 Tip: Always check for installation guides specific to your game for a smoother process.
 
-⚙️ Top Features of Sprunki Mod
+## ⚙️ Top Features of Sprunki Mod
 Here’s what makes Sprunki Mod a game-changer:
 
 Enhanced Graphics 🖼️
@@ -56,7 +56,7 @@ Unlock exclusive maps and quests unavailable in the base game.
 Performance Optimization ⚡
 
 Reduce lag and improve loading times with built-in performance tweaks.
-💡 Frequently Asked Questions (FAQ)
+## 💡 Frequently Asked Questions (FAQ)
 1. Is Sprunki Mod Free?
 Yes, Sprunki Mod is free to download and use. However, donations to support the developers are always appreciated.
 
@@ -66,7 +66,7 @@ Sprunki Mod is safe for offline gameplay. For online use, check your game’s mo
 3. Can I Customize Sprunki Mod Further?
 Absolutely! Sprunki Mod includes tools for advanced users to tweak features to their liking.
 
-🏆 Final Thoughts
+## 🏆 Final Thoughts
 Sprunki Mod is a powerful tool that elevates your gaming experience. With its wide range of features, ease of installation, and active community support, it's a no-brainer for gamers seeking more control and fun in their favorite games.
 
 So why wait? Download Sprunki Mod today and redefine your gaming journey!
